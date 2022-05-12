@@ -24,19 +24,19 @@ public class User {
 		this.email = email;
 	}
 
-	public Long getIs() {
+	public Long getId() {
 		return id;
 	}
 
-	public void setIs(Long id) {
+	public void setId(Long id) {
 		this.id = id;
 	}
 
-	public String getE() {
+	public String getEmail() {
 		return email;
 	}
 
-	public void setE(String email) {
+	public void setEmail(String email) {
 		this.email = email;
 	}
 	
